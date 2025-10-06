@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Iata 👨🏽‍🎨</h1>
+<h1 align="center">Hi 👋, I'm Iata 👨🏽‍🍳</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
 ![me](https://private-user-images.githubusercontent.com/202996907/497784694-adcb428e-2b82-4dd8-9d8c-0120e81e14e3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk3NTEwNDAsIm5iZiI6MTc1OTc1MDc0MCwicGF0aCI6Ii8yMDI5OTY5MDcvNDk3Nzg0Njk0LWFkY2I0MjhlLTJiODItNGRkOC05ZDhjLTAxMjBlODFlMTRlMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwNlQxMTM5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTdiZmVkYWFjZTg1MzgyYmEyYWM1MzE3NTIzMTJmOWM4ZTdjMmI5ZjU5YmI1YzY1ZTNhMjU4MzAzYTQ5ZWEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Nb6CrDC9c1XktrtQIyUSfbN_2Zih7J5bPVIVPh_qGg0)
 
 ### About Me
 
-<p>I code wonderfully simple interfaces, and I love what I do. With a background in statistics, I’m deeply passionate about all things computer science and how we can use code to explore and understand the world. Although I'm a committed data scientist, when a project is handed to me from scratch, I enjoy the whole process of bringing it to life</p>
+<p>I code occasionally and I love what I do. With a background in statistics, I’m deeply passionate about all things surrounding computer science and how we can use code to explore and understand the world. When handed a project from scratch, I thrive on turning ideas into reality.</p>
 
 ### I speak
 
@@ -32,10 +32,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/353416/autohotkey.svg" alt="autohotkey" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/373451/autohotkey.svg" alt="autohotkey" width="40" height="40"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/373589/vba.svg" alt="vba" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/374159/vba.svg" alt="vba" width="40" height="40"/>
 </a>
 </p>
 
@@ -53,13 +53,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
 </a>
 <a href="https://gemini.google.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/>
 </a>
 <a href="https://qwen.ai/" target="_blank">
-<img src="https://raw.githubusercontent.com/LazyRen/ai-icons/main/qwen.svg" alt="qwen" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg" alt="qwen" width="40" height="40"/>
 </a>
 <a href="https://www.notion.so/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="notion" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/521773/notion.svg" alt="notion" width="40" height="40"/>
 </a>
 </p>
 
