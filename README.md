@@ -73,5 +73,81 @@
 
 ### My github stats
 
-[![Iata's GitHub stats](https://github-readme-stats.vercel.app/api?username=iata-lab&show_icons=true&theme=radical)
-)
+![Iata's GitHub stats](https://github-readme-stats.vercel.app/api?username=iata-lab&show_icons=true&theme=radical)
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.microsoft.com/edge" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" alt="edge" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=notion.so&sz=128" alt="notion" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=canva.com&sz=128" alt="canva" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://brace.to/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=brace.to&sz=128" alt="brace.to" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.voidtools.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=voidtools.com&sz=128" alt="everything" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getsharex.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=getsharex.com&sz=128" alt="sharex" width="20" height="20" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Browser</td>
+    <td align="center">Docs</td>
+    <td align="center">Design</td>
+    <td align="center">Bookmarks</td>
+    <td align="center">Search files</td>
+    <td align="center">Screenshot</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.keepassxc.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=keepassxc.org&sz=128" alt="keepassxc" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://newpipe.net/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=newpipe.net&sz=128" alt="newpipe" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.pocketcasts.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=pocketcasts.com&sz=128" alt="pocketcasts" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128" alt="reddit-ai-tools" width="20" height="20" />
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+     <td align="center">Passwords</td>
+    <td align="center">Youtube</td>
+    <td align="center">Podcast</td>
+    <td align="center">AI Tools</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
