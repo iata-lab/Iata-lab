@@ -37,6 +37,9 @@
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/show/374159/vba.svg" alt="vba" width="40" height="40"/>
 </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.svgporn.com/logos/bash.svg" alt="Bash" width="40" height="40"/>
+</a>
 </p>
 
 
@@ -59,7 +62,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg" alt="qwen" width="40" height="40"/>
 </a>
 <a href="https://www.notion.so/" target="_blank">
-<img src="https://www.svgrepo.com/show/521773/notion.svg" alt="notion" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg" alt="notion" width="40" height="40"/>
+</a>
+  <a href="https://anaconda.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Light.svg" alt="Bash" width="40" height="40"/>
 </a>
 </p>
 
