@@ -61,9 +61,6 @@
 <a href="https://qwen.ai/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg" alt="qwen" width="40" height="40"/>
 </a>
-<a href="https://www.notion.so/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg" alt="notion" width="40" height="40"/>
-</a>
   <a href="https://anaconda.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Light.svg" alt="Bash" width="40" height="40"/>
 </a>
