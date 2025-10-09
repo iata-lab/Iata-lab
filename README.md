@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iata 👨🏽‍🍳</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-![me](https://private-user-images.githubusercontent.com/202996907/497784694-adcb428e-2b82-4dd8-9d8c-0120e81e14e3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk3NTEwNDAsIm5iZiI6MTc1OTc1MDc0MCwicGF0aCI6Ii8yMDI5OTY5MDcvNDk3Nzg0Njk0LWFkY2I0MjhlLTJiODItNGRkOC05ZDhjLTAxMjBlODFlMTRlMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwNlQxMTM5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTdiZmVkYWFjZTg1MzgyYmEyYWM1MzE3NTIzMTJmOWM4ZTdjMmI5ZjU5YmI1YzY1ZTNhMjU4MzAzYTQ5ZWEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Nb6CrDC9c1XktrtQIyUSfbN_2Zih7J5bPVIVPh_qGg0)
+![me](https://github.com/user-attachments/assets/b223e568-dd13-4449-a269-65c17b1d4f64)
 
 ### About Me
 
@@ -72,6 +72,9 @@
 
 ![Iata's GitHub stats](https://github-readme-stats.vercel.app/api?username=iata-lab&show_icons=true&theme=radical)
 
+
+
+#### Recommended Software
 
 <table>
   <tr>
