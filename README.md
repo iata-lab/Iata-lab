@@ -68,11 +68,6 @@
 
 
 
-### My github stats
-
-![Iata's GitHub stats](https://github-readme-stats.vercel.app/api?username=iata-lab&show_icons=true&theme=radical)
-
-
 
 #### Recommended Software
 
