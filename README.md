@@ -146,3 +146,11 @@
     <td align="center"></td>
   </tr>
 </table>
+
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iata-lab&show_icons=true&theme=transparent" alt="GitHub stats"/>
+</p>
+
